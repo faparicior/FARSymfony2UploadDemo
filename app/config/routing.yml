@@ -1,0 +1,9 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+    prefix:   "/farupload"
+
+far_symfony2_upload:
+    resource: "@FARSymfony2UploadBundle/Controller/"
+    type:     annotation
+    prefix:   "/farupload"
